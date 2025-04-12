@@ -76,7 +76,7 @@ class LDAClassifier:
 
         print(self.prediction)
 
-        self.prediction
+        return self.prediction
     
     def score(self, y_test):
         """
