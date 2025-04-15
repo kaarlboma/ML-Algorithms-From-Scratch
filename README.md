@@ -10,7 +10,7 @@ This project implements various statistical learning methods from first principl
 
 - Linear Regression
 - Logistic Regression
-- Linear/Quadratic Discriminant Analysis
+- Naive Bayes/Linear/Quadratic Discriminant Analysis
 - More to Come!
 
 ## Dependencies
