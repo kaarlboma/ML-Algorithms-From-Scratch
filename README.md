@@ -8,7 +8,7 @@ This project implements various statistical learning methods from first principl
 
 ## Algorithms Implemented
 
-- Linear/Ridge (soon Lasso) Regression
+- Linear; Ridge; (soon Lasso) Regression
 - Logistic Regression
 - Naive Bayes/Linear/Quadratic Discriminant Analysis
 - More to Come!
