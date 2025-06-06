@@ -4,7 +4,7 @@ A collection of machine learning algorithms implemented from scratch using Pytho
 
 ## Project Overview
 
-This project implements various statistical learning methods from first principles using only Python and NumPy. Each algorithm is tested in Jupyter notebooks using datasets from scikit-learn.
+This project implements various statistical learning methods from first principles using only Python and NumPy. Each algorithm is tested in Jupyter notebooks using datasets from scikit-learn or synthetic data.
 
 ## Algorithms Implemented
 
